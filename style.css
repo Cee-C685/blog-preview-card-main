@@ -7,7 +7,7 @@
 }
 
 img {
-  max-width: 260px;
+  max-width: 100%;
   border-radius: 15px;
 }
 
@@ -15,14 +15,13 @@ body {
   background-color: #f4d04e;
   font-size: 20px;
   margin: 0 auto;
-  font-weight: 500px 800px;
+  font-weight: 800;
   font-family: "Figtree";
 }
 
 main {
   width: 50%;
   margin: 100px auto;
-  position: relative;
   background-color: #ffffff;
   width: 60%;
   max-width: 300px;
@@ -47,7 +46,7 @@ main {
   background-color: #f4d04e;
   color: #000000;
   font-weight: bold;
-  width: 30%;
+  width: 80px;
   border-radius: 5px;
   padding: 10px;
   font-size: 14px;
