@@ -35,6 +35,11 @@ main {
   font-weight: bold;
   padding-bottom: 10px;
   padding-top: 10px;
+  cursor: pointer;
+}
+
+.big-text:hover {
+  color: hsl(47, 88%, 63%);
 }
 
 .text {
